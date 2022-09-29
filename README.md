@@ -22,3 +22,6 @@ o carro do google maps
 
 Comentar mais sobre o código, problemas encontrados,
 quais soluções foram adotadas
+
+
+AT+UART_DEF=9600,8,1,0,0
