@@ -4,8 +4,8 @@
 #define TX 17
 const char* ssid = "AndroidAP62A9"; //VARIÁVEL QUE ARMAZENA O NOME DA REDE SEM FIO
 const char* pass = "bspf9177";//VARIÁVEL QUE ARMAZENA A SENHA DA REDE SEM FIO
-String server = "http://uniptcced-001-site1.btempurl.com";
-String host = "uniptcced-001-site1.btempurl.com";
+String server = "http://uniptccedrenew-001-site1.etempurl.com";
+String host = "uniptccedrenew-001-site1.etempurl.com";
 String completeData = "";
 
 void setup() {
